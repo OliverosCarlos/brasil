@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 30, 2019, 9:03:26 PM
+    Author     : oliveros
+*/
+#landing-service {
+  background: url("images/bg1.jpg")
+    no-repeat center fixed;
+  padding-top: 150px;
+  padding-bottom: 250px;
+}
+
