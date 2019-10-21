@@ -44,8 +44,12 @@
 
         <div class="row">
             <div class="col col-5 p-4">
-                <h1>Superficie y límites:</h1>
-                <p class="p-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h1>Superficie y límites:</h1>
+                    </div>
+                    <div class="card-body">
+                        <p class="p-3">
                     8.511.965 km2, ocupa casi la mitad de la superficie de América del Sur.
                     Está limitada al norte por Venezuela, Guyana, Surinam, Guayana Francesa y el océano Atlántico; 
                     al este por el océano Atlántico; al sur por Uruguay; 
@@ -54,13 +58,24 @@
                     sus líneas fronterizas son de 14.691 km, 7.941 km extensión de sus cotas. Brasil es el quinto país más grande del mundo. 
                     Su distancia máxima de norte a sur es de 4.345 km y de este a oeste de 4.330 km.
                 </p>
-                <h1>Estados de Brasil:</h1>
-                <p class="p-3">
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <h1>Estados de Brasil:</h1>
+                    </div>
+                    <div class="card-body">
+                        <p class="p-3">
                     Esta compuesto por 26 estados: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Goiás, Espírito Santo, 
                     Maranhão, Mato Grosso,Mato Grosso do Sul, Minas Gerais, Pará, Paraiba, Paraná, Pernambuco, Piau, Rio de Janeiro, 
                     Rio Grande do Norte, Rio Grande do Sul, Rondônia, Rorâima, São Paulo, Santa Catarina, Sergipe, 
                     Tocantins y el Distrito Federal (Brasilia)
                 </p>
+                    </div>
+                </div>
+                
+                
+                
             </div>
             <div class="col col-7 p-4">
                 <img src="images/mapa.png" alt="mapa brasil" class="shadow" style="width: 100%;">
